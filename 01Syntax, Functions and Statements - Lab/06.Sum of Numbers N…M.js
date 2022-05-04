@@ -8,4 +8,3 @@ function solve(one, two) {
     console.log(result);
 }
 
-solve('1', '5' );
